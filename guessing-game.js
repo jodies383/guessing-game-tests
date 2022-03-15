@@ -38,7 +38,9 @@ const GuessingGame = () => {
         }
     }
     const returnMessage = () => message
+    
     const returnNewGameMessage = () => newGameMsg
+
     const returnCount = () => count
 
     return {
